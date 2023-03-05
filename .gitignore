@@ -1,0 +1,4 @@
+secrects.txt
+# this line will be commented 
+# now here for each file write its name in new line same format as you see on cmd
+# *.txt means all text files will be ignored
